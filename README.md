@@ -124,6 +124,11 @@ Curating the best open-source alternatives for famous apps.
 ### [Google Photos](https://www.google.com/photos/about/)
 - [Ownphotos](https://github.com/hooram/ownphotos)
 
+### [Hacker News](https://news.ycombinator.com)
+- [Kiwi News](https://github.com/attestate/kiwistand)
+- [Lemmy](https://github.com/LemmyNet/lemmy)
+- [Lobsters](https://github.com/lobsters/lobsters)
+
 ### [Heroku](https://heroku.com/)
 - [Dokku](https://github.com/dokku)
 - [OpenFaas](https://github.com/openfaas)
